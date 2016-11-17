@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship orid="88"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ship.xsd">
+  <order>sonal jajoo</order>
+  <shipto>
+    <name>amruta solunke</name>
+    <address>400</address>
+  </shipto>
+  <item>
+    <title>Web technology</title>
+    <note>Special Edition</note>
+ </item>
+ 
+</ship>
